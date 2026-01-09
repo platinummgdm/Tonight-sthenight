@@ -1,0 +1,32 @@
+.doakes2{
+    width: 300px;
+    height: 280px;
+    border-radius: 50%;
+    border: 6px solid rgb(99, 57, 2);
+
+}
+
+.doakes{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(36, 36, 36);
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.doakes3{
+    margin: 0;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.doakes4{
+    margin: 2;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: first baseline;
+}
